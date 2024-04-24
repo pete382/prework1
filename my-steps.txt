@@ -1,0 +1,118 @@
+### Step 2A
+/c/Users/Administrator
+
+
+### Step 2B
+cd Documents/
+cd Grand_Circus/
+
+### Step 2C
+cd unit1-git-practice/
+
+
+### Step 2D
+pwd
+/c/Users/Administrator/Documents/Grand_Circus/unit1-git-practice
+
+
+### Step 2E
+
+$ ls
+  
+### Step 2F
+ my-steps.txt 
+
+### Step 2G
+cd ..
+
+
+### Step 2H
+pwd
+Administrator@DESKTOP-JMHE2M3 MINGW64 /
+
+
+### Step 2I
+$ ls
+LICENSE.txt        cmd/  git-bash.exe*  proc/         unins000.exe*
+ReleaseNotes.html  dev/  git-cmd.exe*   tmp/          unins000.msg
+bin/               etc/  mingw64/       unins000.dat  usr/
+
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd Administrator
+cd Grand_Circus/
+cd Documents/
+cd unit1-git-practice
+
+
+
+### Step 3A
+mkdir veggies
+mkdir meats
+mkdir desserts
+
+
+### Step 3B
+mv desserts sweets
+
+
+### Step 3C
+mkdir proteins
+
+
+### Step 3D
+ 
+
+### Step 3E
+touch carrot.txt
+touch pea.txt
+
+### Step 3F
+touch cookie.txt
+
+### Step 3G
+mv cookie.txt donut.txt
+
+
+### Step 3H
+touch thing.txt
+
+### Step 3I
+cp thing.txt tofu.txt
+
+### Step 3J
+mv tofu.txt proteins/tofu.txt
+
+
+### Step 3K
+cp thing.txt crab.txt
+mv crab.txt proteins/crab.txt
+
+
+### Step 3L
+rm thing.txt
+
+### Step 3M
+cp -r veggies plants
+
+
+
+### Step 3N
+mkdir drinks
+rm -r drinks
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
